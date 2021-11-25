@@ -1,0 +1,6 @@
+D:\STUDYING\3_course\СПП\Labs\Vyachka.AssemblyBrowser\Core\bin\Debug\Core.dll
+D:\STUDYING\3_course\СПП\Labs\Vyachka.AssemblyBrowser\Core\bin\Debug\Core.pdb
+D:\STUDYING\3_course\СПП\Labs\Vyachka.AssemblyBrowser\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+D:\STUDYING\3_course\СПП\Labs\Vyachka.AssemblyBrowser\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\STUDYING\3_course\СПП\Labs\Vyachka.AssemblyBrowser\Core\obj\Debug\Core.dll
+D:\STUDYING\3_course\СПП\Labs\Vyachka.AssemblyBrowser\Core\obj\Debug\Core.pdb
